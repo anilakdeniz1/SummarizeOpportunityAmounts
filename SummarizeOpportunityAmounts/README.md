@@ -3,6 +3,8 @@ This feature calculates the number of related opportunities for accounts and aut
 -Scheduler-
 
 /*Script for shcedule the batch
+
+
     // Every 10:00 AM
     String dailyCron = '0 0 10 * * ?';
     System.schedule('Daily Job', dailyCron, new ScheduleSummarizeAllOppAmountsBatch());
