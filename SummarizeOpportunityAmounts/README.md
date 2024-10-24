@@ -1,5 +1,4 @@
-This feature calculates amount of related opportunities of accounts and sends email to their primary contacts.
-
+This feature calculates the number of related opportunities for accounts and automatically sends an email that includes a data table to their primary contacts.
 
 -Scheduler-
 
